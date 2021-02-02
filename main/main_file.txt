@@ -2,7 +2,7 @@ This is a testing of git
 
 ++ 
 
-adding feature1 ... >> la la la 
+adding feature1 ... >> la la la >> feature1 update > lae lae lae
 
 
 adding feature2 ...>> ga ga ga
