@@ -1,1 +1,5 @@
 This is a testing of git
+
+++ 
+
+adding feature1 ... >> la la la 
